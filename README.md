@@ -12,6 +12,12 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react" />
@@ -20,17 +26,17 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=android" height="60" alt="android" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="android studio" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="60" alt="photoshop" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pr" height="60" alt="premiere pro" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=obsidian" height="60" alt="obsidian" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="60" alt="twa pwa chrome" />
 </div>
 
 ###
