@@ -1,10 +1,12 @@
-<h1 align="center">Fala! 👋 Sou o Victor</h1>
+<h1 align="center">Fala! 👋 Sou o Victor Meireles</h1>
 
 ###
 
 <p align="center">
-  Desenvolvedor · Maker · Fundador da <strong>Digitais & Papéis</strong> 🖨️<br/>
-  Construindo ferramentas com IA para pequenas empresas brasileiras 🇧🇷
+  Desenvolvedor Full Stack · Vibe Coding · Fundador da <strong>Digitais & Papéis</strong> 🖨️<br/>
+  Transformando ideias em produtos digitais reais — do código ao negócio, do problema à solução.<br/>
+  <br/>
+  <em>"Todo problema tem uma solução. Toda solução tem uma audácia disfarçada de lógica."</em>
 </p>
 
 ###
