@@ -3,8 +3,8 @@
 ###
 
 <p align="center">
-  Desenvolvedor Full Stack · Vibe Coding · Fundador da <strong>Digitais & Papéis</strong> 🖨️<br/>
-  Transformando ideias em produtos digitais reais — do código ao negócio, do problema à solução.<br/>
+  Desenvolvedor Full Stack · Vibe Coding 💻<br/>
+  Transformando ideias em produtos reais — do código ao negócio, do problema à solução.<br/>
   <br/>
   <em>"Todo problema tem uma solução. Toda solução tem uma audácia disfarçada de lógica."</em>
 </p>
